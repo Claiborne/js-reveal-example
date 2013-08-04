@@ -27,3 +27,11 @@
      -moz-box-shadow: 0 0 0px rgba(0, 0, 0, 0.15);
           box-shadow: 0 0 0px rgba(0, 0, 0, 0.15);
 }
+
+.section-left {
+	text-align: left;
+}
+
+.code {
+	font-family: "Courier New", courier;
+}
